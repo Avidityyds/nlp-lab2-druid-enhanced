@@ -40,7 +40,7 @@ nlp-lab2-druid-enhanced/
 │
 ├── lab2_config.json              # Configuration for model and directories
 ├── main.py                       # Main game logic (enhanced)
-├── lab2_output/                  # Generated states and summaries
+├── LICENSE
 └── README.md
 ```
 ---
