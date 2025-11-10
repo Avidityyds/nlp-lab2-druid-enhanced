@@ -39,6 +39,10 @@ nlp-lab2-druid-enhanced/
 │       └── user_prompt/          # Text prompts for key events
 │
 ├── lab2_config.json              # Configuration for model and directories
+├── lab2_output/
+│   ├── save_1.json
+│   ├── review_1.txt             
+│   └── summary_1.txt                   
 ├── main.py                       # Main game logic (enhanced)
 ├── LICENSE
 └── README.md
